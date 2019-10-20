@@ -1,0 +1,30 @@
+
+Vsquid:S1197,"8Move the array designator from the variable to the type.(Ò„¬8†ÏÓš-
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(„ú¦ıÿÿÿÿ8•ˆ›-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê¸ü«8ÛÏš-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ö²óº8ÛÏš-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ö©ÿÀ8ÛÏš-
+Hsquid:S1481."*Remove this unused "klucz" local variable.(×Ö‚8‰åäš-
+[
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(Òş¸Ğúÿÿÿÿ8ÛÏš-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê¸ü«8ÛÏš-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡
+Vsquid:S1197	"8Move the array designator from the variable to the type.(Óÿö8ÛÏš-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Ëñ
+Lsquid:S1172,".Remove this unused method parameter "tablica".(Ò„¬8•ˆ›-
+[squid:S1197"8Move the array designator from the variable to the type.(“Ê¨¥ıÿÿÿÿ8•ˆ›-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Òş¸Ğúÿÿÿÿ8ÛÏš-
+jsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8ÛÏš-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÛÏš-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ö©ÿÀ8ÛÏš-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ö²óº8ÛÏš-
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ïì×›-

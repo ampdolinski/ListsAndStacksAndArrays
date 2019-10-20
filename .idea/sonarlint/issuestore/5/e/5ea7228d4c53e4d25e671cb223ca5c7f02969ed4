@@ -1,0 +1,8 @@
+
+[squid:S1197"8Move the array designator from the variable to the type.(·õÓ®üÿÿÿÿ8¦û¬—-
+Nsquid:S1481"0Remove this unused "ilePowtorek" local variable.(¥å®Ã8¬áÚ—-
+jsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8¦û¬—-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8¦û¬—-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼“¶ãşÿÿÿÿ
+j$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(âÍ€úÿÿÿÿ8èİÅ—-
